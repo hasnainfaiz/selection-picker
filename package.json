@@ -1,6 +1,6 @@
 {
   "name": "react-native-selection-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide a list of array, it will render the picker, so that you can select item based on that list",
   "main": "index.js",
   "scripts": {
